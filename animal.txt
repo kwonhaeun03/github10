@@ -1,7 +1,0 @@
-tiger
-lion
-cat
-rabbit
-cow
-dog
-elephant
