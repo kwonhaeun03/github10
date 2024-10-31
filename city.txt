@@ -3,3 +3,4 @@ goyang
 paris
 yellowknife
 calgry
+edmonton
