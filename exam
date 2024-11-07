@@ -25,3 +25,11 @@ joint hierarchy
           - arm_L0_twist3_jnt
             - arm_L0_twist4_jnt
               - arm_L0_wrist_jnt
+
+
+팔 리깅 mgear 를 참고해서 수정하기.
+
+팔 리깅한거 스크립트로 작성하기
+
+confirm
+  humanarm.py
